@@ -21,12 +21,12 @@ li{
 <li> Contact Us </li>
 
 </ul>
-<img src = "C:\Users\MOAL-PC\Desktop\BIT 2 - A Day\CAUBA, IAN ROY D\isda.jpg">
+<img src = "isda.jpg">
 </img>
 
 
 <p>blubblub!</p>
-<img src = "C:\Users\MOAL-PC\Desktop\BIT 2 - A Day\CAUBA, IAN ROY D\isda.jpg">
+<img src = "isda.jpg">
 </img>
 
 </body>
