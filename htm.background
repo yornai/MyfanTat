@@ -1,0 +1,33 @@
+</head>
+<body>
+<style>
+li{
+ font size : 70px;
+ }
+ img{
+ width: 500px;
+ height: 700px;
+ }
+</style>
+<ul>
+<hl> WELCOME MGA NAWNG UG PANTAT<hl>
+<p>HI I'M DUGONG</p>
+</ul>
+
+<ul>
+<li> Home </li>
+<li> Product </li>
+<li> About </li>
+<li> Contact Us </li>
+
+</ul>
+<img src = "C:\Users\MOAL-PC\Desktop\BIT 2 - A Day\CAUBA, IAN ROY D\isda.jpg">
+</img>
+
+
+<p>mingming!</p>
+<img src = "C:\Users\MOAL-PC\Desktop\BIT 2 - A Day\CAUBA, IAN ROY D\isda.jpg">
+</img>
+
+</body>
+</html>
